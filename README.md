@@ -16,7 +16,7 @@ A simple ml project that predicts the chances of heart disease based on patient 
 
 RangeIndex: 1025 entries, 0 to 1024
 Data columns (total 14 columns):
- #   Column    Non-Null Count  Dtype  
+ S.N.   Column    Non-Null Count  Dtype  
 ---  ------    --------------  -----  
  0   age       1025 non-null   int64  
  1   sex       1025 non-null   int64  

@@ -1,14 +1,14 @@
 # heart-disease-simple
 A simple ml project that predicts the chances of heart disease based on patient data using Logistic Regression.
 
-##Project Overview
+## Project Overview
 1. **Exploratory Data Analysis** using pandas and matplotlib  
 2. **Feature preprocessing** and train-test split (80/20)  
 3. **Model training** using Logistic Regression (scikit-learn)  
 4. **Model evaluation** with accuracy metrics  
 5. **Model serialization** using pickle
 
-## 📊 Dataset
+## Dataset
 - **Source:** Kaggle Heart Disease Dataset
 - **Rows:** 1025 samples  
 - **Columns:** 14 (age, sex, cholesterol, etc.)  
